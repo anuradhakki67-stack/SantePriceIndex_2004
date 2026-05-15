@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Basket Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M34,44c0,-11.046 8.954,-20 20,-20s20,8.954 20,20" />
+    <!-- Basket Body -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M28,44h52l-6,36h-40z" />
+    <!-- Basket Texture/Lines -->
+    <path
+        android:strokeColor="#E65100"
+        android:strokeWidth="1.5"
+        android:pathData="M28,54h52 M30,64h48 M32,74h44 M41,44v36 M54,44v36 M67,44v36" />
+    <!-- Produce in Basket (Tomato/Onion) -->
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M48,44c0,-4.418 -3.582,-8 -8,-8s-8,3.582 -8,8h16z" />
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M76,44c0,-4.418 -3.582,-8 -8,-8s-8,3.582 -8,8h16z" />
+</vector>
