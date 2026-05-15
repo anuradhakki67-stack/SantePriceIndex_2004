@@ -22,4 +22,4 @@ Future Improvements
 -multi-language support
 -Cloud synchronization
 -Location-based price updates
--User login & personalizatio
+-User login & personalization
