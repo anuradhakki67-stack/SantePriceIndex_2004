@@ -19,7 +19,7 @@ Tech Stack
 
 Future Improvements
 AI-based price prediction
-Multi-language support
+multi-language support
 Cloud synchronization
 Location-based price updates
 User login & personalizatio
