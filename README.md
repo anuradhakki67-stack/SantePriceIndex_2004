@@ -4,14 +4,14 @@ The Sante Price Index Project is an Android-based application designed to track,
 
  Features
 - Real-time price index tracking
-- Category-wise price comparison (food, fuel, essentials, etc.)
+- Category-wise price comparison 
 - Simple and interactive UI
-- Alerts for major price changes (optional feature if added)
+- Alerts for major price changes 
 - Android-friendly responsive design
 
 Tech Stack
-- Language:Java / Kotlin (mention what you used)
+- Language:Java / Kotlin 
 - IDE:Android Studio
-- Database:Firebase / SQLite (if used)
+- Database:Firebase / SQLite 
 - UI: XML Layouts
 - Build Tool: Gradle
